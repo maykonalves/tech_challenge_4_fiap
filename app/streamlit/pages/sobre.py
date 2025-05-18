@@ -18,5 +18,5 @@ Este projeto foi desenvolvido com o objetivo de analisar e prever os preços do 
 - [IPEA - Instituto de Pesquisa Econômica Aplicada](https://www.ipea.gov.br)
 
 #### Código:
-- [Repositório no GitHub](https://github.com)
+- [Repositório no GitHub](https://github.com/maykonalves/tech_challenge_4_fiap)
 """)

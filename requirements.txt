@@ -1,0 +1,18 @@
+# filepath: c:\Users\Mayko\OneDrive\Desktop\tech_challenge_4\requirements.txt
+beautifulsoup4
+joblib
+keras
+matplotlib
+numpy
+pandas
+plotly
+requests
+prophet
+requests
+scikit-learn
+seaborn
+statsmodels
+streamlit>=1.25.0
+matplotlib
+tensorflow
+xgboost

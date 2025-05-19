@@ -6,8 +6,11 @@ st.markdown("""
 Este projeto foi desenvolvido com o objetivo de analisar e prever os preços do petróleo Brent com base em dados históricos.
 
 #### Participantes
+- Eduardo de Oliveira Graciano(https://www.linkedin.com/in/eduardo-de-oliveira-graciano/)
+- Felime Lima Ferrari(https://www.linkedin.com/in/felipe-lima-ferrari/)
+- Jaderson Damasceno de Lima(https://www.linkedin.com/in/jadersondamasceno/)
+- João Leonardo Colotino(https://www.linkedin.com/in/joao-leonardo-colotino-882a51158/)
 - Maykon Alves(https://www.linkedin.com/in/maykonalves/)
-- [Outros Participantes](https://github.com)
 
 #### Objetivos:
 - Criar um dashboard interativo com storytelling
